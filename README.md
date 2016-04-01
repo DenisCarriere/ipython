@@ -11,13 +11,13 @@ $ make
 ## How to use?
 
 **Check version**
-```
+```bash
 $ ipython --version
 4.1.2
 ```
 
 **Execute local files**
-```
+```bash
 $ echo "print('Hello World')" >> hello.py
 $ ipython hello.py
 Hello World
